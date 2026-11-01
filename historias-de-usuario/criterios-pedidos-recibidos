@@ -1,0 +1,10 @@
+# Historia 3: pedidos recibidos.
+
+Como encargado de sucursal, quiero ver los pedidos recibidos y los horarios de retiro, para organizar el trabajo de la sucursal.
+
+## Criterios de aceptacion
+
+- [ ] La pantalla muestra los pedidos en estado recibido. 
+- [ ] Se muestra por pantalla producto, cantidad y horario de retiro del pedido.
+- [ ] Se muestran los pedidos segun el horario que fueron recibidos.
+- [ ] Al llegar un pedido nuevo, la app emite una alerta a traves de una notificacion.
