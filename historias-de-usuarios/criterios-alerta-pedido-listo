@@ -1,0 +1,10 @@
+# Historia 2: Alerta de pedido listo
+
+Como cliente, quiero recibir una alerta cuando mi pedido esté listo, para evitar hacer fila.
+
+## Criterios de aceptación
+
+- [ ] La alerta se dispara cuando la sucursal marca el pedido como listo.
+- [ ] La alerta llega al cliente como una notificación de la app.
+- [ ] La alerta incluye código de retiro, en formato QR.
+- [ ] Pasados 30 minutos desde que el pedido esté listo, el estado del pedido cambia a cancelado.
